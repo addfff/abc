@@ -1,2 +1,3 @@
 <?
-echo "Alhamdulillah <br> Boleh balik dah"
+echo "Alhamdulillah <br> Boleh balik dah";
+?>
